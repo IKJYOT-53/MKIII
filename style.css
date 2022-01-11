@@ -164,7 +164,6 @@ button {
 }
 .animate {
   width: min(80%, 35rem);
-  border: 1px solid greenyellow;
   display: flex;
   align-items: center;
 }
